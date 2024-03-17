@@ -1,2 +1,2 @@
-# rustovk  
-Обгортка OpenVK API, написана на Rust.
+# covka
+Обгортка OpenVK API, написана на C

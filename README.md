@@ -1,2 +1,2 @@
-# rustovk
-OpenVK API wrapper written on Rust
+# covka
+OpenVK API wrapper written on C
